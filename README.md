@@ -11,3 +11,9 @@ This will change the color to a deep red, reduce the sensor distance, increase t
 
 Sands:
 This one will change the color to a beige-yellow, increase the sensor distance, reduce the transparency, and reduce the rotation value. This one looks akin to sands flowing in the wind. I like that it is much more slow moving than many of the other options. It feels almost soothing to watch. I think it is the combination of increasing the sensor distance and reducing the rotation value that gives it the larger and slower feel. Reducing the transparency also probably helps to hide some of the agents in less populated areas, making it seem more empty.
+
+Matrix:
+For this I changed the color to green, and turned the sensor distance and rotation down. The pattern it creates vaguely reminded me of the matrix. The limited rotation amount coupled with the very short sensor distance makes the agents stick close together in straight lines. I thought it was an interesting pattern that was juxtaposed to the usual curved formations the agents usually take.
+
+Night:
+This one is meant to be reminiscent of the night sky. The sensor distance and transparency are turned way down, and the rotation is cranked up. This makes the agents close in on themselves in small circles, and the low transparency means that any stragglers are hidden from view. After a little while it almost looks like a still image. This one if fun to turn on for a little bit, then either change to another preset or drastically change one of the values. Then all of the agents come out of hiding and start to move about again.
