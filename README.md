@@ -1,6 +1,6 @@
 # cs420x-assignment4
 
-If you run by downloading, just clicking assignment2.html should work. Or you can just go here to run it online.
+If you run by downloading, just clicking assignment2.html should work. Or you can just go [here](https://bjaubuchon.github.io/cs420x-assignment4/) to run it online.
 
 **NOTE: If you select a preset checkbox it will hold all values as they should be for that preset, you will need to uncheck the checkbox to edit other values/select other presets.
 
